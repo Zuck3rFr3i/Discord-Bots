@@ -5,15 +5,14 @@ Im building Functional Bots! dont come at me because you dont like my Style of W
 Procedual if not i have to write Object Oriented, why OOP is bad is explained in alot of Videos by really good
 Programmers.
 
-# Discord Music Bot
-Lightweight youtube Music Bot Running inside of Discord.
-
 ## Make sure you have Knowledge of the Following things:
 
 1. How to run a Discord Bot
 2. How to edit and write Python
 3. Basic knowledge of the Discprd.py library
 
+# Discord Music Bot
+Lightweight youtube Music Bot Running inside of Discord.
 
 ## Packages Needet:
 1. Discord.py
@@ -43,18 +42,10 @@ Known issues:
 # Discord Tiket Bot
 A Simple, lightweight but Powerfull Tiketbot
 
-## Make sure you have Knowledge of the Following things:
-
-1. How to run a Discord Bot
-2. How to edit and write Python
-3. Basic knowledge of the Discprd.py library
-
 ## Packages Needet:
-
 1. Discord.py
 
 ## What this Bot can and cant do:
-
 1. Give ability to create Tikets
 2. Handle Permission for Roles like Closing / Deleting Tikets
 3. Tikets only visible to staff and Creator
@@ -63,10 +54,8 @@ A Simple, lightweight but Powerfull Tiketbot
 6. Ping Listed Staff Roles inside of new Tikets
 
 ## Cant and never will be able to do:
-
 1. Save Tikets to view later (Transscript)
 2. WebUI to manage Tikets
 
 ## Known issues:
-
 Nothing i know of now.
